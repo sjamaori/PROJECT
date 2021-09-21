@@ -1,0 +1,6 @@
+1. Information Gathhering
+2. Project Initialization
+3. Solution Design
+4. Development
+5. Deployment
+6. Maintenance
