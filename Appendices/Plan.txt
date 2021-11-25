@@ -1,0 +1,37 @@
+Plan
+Gantt Chart
+Technical Repot
+Tools
+Version Control Software
+_________________________
+
+Analysis
+Risk Assement
+Analysis Use Case Narratives
+__________________________
+
+Design
+Design Use Case Narratives
+Activity Diagram
+Sequence Diagram
+Deployment Diagram
+Database Design
+User Interface Design
+Test Plan
+___________________________
+
+Coding
+Database
+User Interface
+Testing
+__________________________
+
+Deployment
+Software Configuration
+
+_________________________
+
+Training
+User Training and Materials
+User Acceptance Testing
+Delivarbles
